@@ -1,0 +1,12 @@
+**Licencia Personalizada**
+
+El presente código fuente es propiedad exclusiva de [Tu Nombre] y se otorga una licencia limitada y revocable únicamente a los suscriptores activos de Patreon de [Nombre de tu página de Patreon].
+
+El suscriptor puede utilizar este código para sus propios proyectos personales, pero queda estrictamente prohibido:
+
+* Distribuir, copiar, modificar o publicar este código sin el consentimiento previo por escrito del autor.
+* Utilizar este código con fines comerciales o para generar ingresos.
+
+La licencia puede ser revocada en cualquier momento y sin previo aviso.
+
+Al utilizar este código, el suscriptor acepta los términos de esta licencia.
